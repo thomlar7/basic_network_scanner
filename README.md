@@ -13,19 +13,6 @@ pressing 'x' on the keyboard.
 - **Real-time Control**: Allows the user to interrupt and stop the scan at any time by pressing 'x'.
 - **User-Friendly Input**: Prompts the user to input the network range to scan.
 
-## Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/basic_network_scanner.git
-   cd basic_network_scanner
-   ```
-
-2. **Install the required library**:
-   ```sh
-   pip install keyboard
-   ```
-
 ## Usage
 
 1. **Run the script**:
