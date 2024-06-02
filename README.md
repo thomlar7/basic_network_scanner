@@ -56,14 +56,3 @@ Port 22 is open on 192.168.1.1
 Port 80 is open on 192.168.1.1
 ...
 ```
-
-## Contributing
-
-Feel free to submit issues or pull requests if you have any improvements or fixes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-This README file includes sections for the project description, features, requirements, installation steps, usage instructions, an example session, contributing guidelines, and the license. Adjust the repository URL and any other details as needed.
