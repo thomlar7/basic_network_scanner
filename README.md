@@ -1,5 +1,3 @@
-Sure! Here's a detailed README file for your project:
-
 ```markdown
 # Basic Network Scanner
 
