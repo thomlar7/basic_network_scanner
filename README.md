@@ -16,7 +16,7 @@ pressing 'x' on the keyboard.
 
 1. **Run the script**:
    ```sh
-   python network_scanner.py
+   python basic_network_scanner.py
    ```
 
 2. **Enter the network range**:
@@ -31,7 +31,7 @@ pressing 'x' on the keyboard.
 ## Example
 
 ```sh
-$ python network_scanner.py
+$ python basic_network_scanner.py
 Enter the network to scan (e.g., 192.168.1.0/24): 192.168.1.0/24
 Press 'x' to stop the scan.
 Scanning 192.168.1.0...
