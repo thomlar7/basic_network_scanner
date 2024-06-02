@@ -12,7 +12,7 @@ pressing 'x' on the keyboard.
 - **Multi-threading**: Uses threading to speed up the scanning process.
 - **Real-time Control**: Allows the user to interrupt and stop the scan at any time by pressing 'x'.
 - **User-Friendly Input**: Prompts the user to input the network range to scan.
-
+```
 ## Usage
 
 1. **Run the script**:
