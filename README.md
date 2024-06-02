@@ -1,7 +1,9 @@
 ```markdown
 # Basic Network Scanner
 
-The Basic Network Scanner is a Python script designed to scan a specified network range for open ports. It leverages multi-threading for efficient scanning and provides real-time control to stop the scan by pressing 'x' on the keyboard.
+The Basic Network Scanner is a Python script designed to scan a specified network range for open ports.
+It leverages multi-threading for efficient scanning and provides real-time control to stop the scan by
+pressing 'x' on the keyboard.
 
 ## Features
 
