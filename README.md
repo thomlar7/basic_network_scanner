@@ -11,11 +11,6 @@ The Basic Network Scanner is a Python script designed to scan a specified networ
 - **Real-time Control**: Allows the user to interrupt and stop the scan at any time by pressing 'x'.
 - **User-Friendly Input**: Prompts the user to input the network range to scan.
 
-## Requirements
-
-- Python 3.x
-- `keyboard` library
-
 ## Installation
 
 1. **Clone the repository**:
